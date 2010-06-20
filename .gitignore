@@ -1,0 +1,18 @@
+
+# java
+pom.xml
+*.jar
+lib
+classes
+
+# compiled shaders
+# aqsis
+*.slx
+# pixie
+*.sdr
+# 3delight
+*.sdl
+# pixar
+*.slo
+# bmrt
+*.slc
