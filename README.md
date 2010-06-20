@@ -53,7 +53,7 @@ Download it [here](http://github.com/polypus74/cljman/downloads), or get it with
 
     $ git clone git://github.com/polypus74/cljman.git
 
-You can also get it off clojars.
+You can also get it off [clojars](http://clojars.org/cljman).
 
 ## License
 
